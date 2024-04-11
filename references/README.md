@@ -2,7 +2,7 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
+- [Django Reinhart](https://en.wikipedia.org/wiki/Django_Reinhardt)
 - [tktk descriptive name of link]()
 - [tktk descriptive name of link]()
 
