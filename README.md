@@ -2,33 +2,23 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- **Basic Knowledge of Python**: Students should be familiar with Python syntax, basic programming concepts like variables, loops, and functions, as these are essential for understanding and working with Django.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Concepts](./concepts/README.md)                         | -- | -- | Introduce Django and explore the benefits of using it                     |
-| [Architecture](./architecture/README.md) | -- | -- | Cover the basics of MVT architecture                     |
-| **Total content**                                        | -- | -- |                                         |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+| Lesson                                   | Video Time | Video | Skills                                                |
+| ---------------------------------------- | :--------: | :---: | ----------------------------------------------------- |
+| [Concepts](./concepts/README.md)         |     --     |  --   | Introduce Django and explore the benefits of using it |
+| [Architecture](./architecture/README.md) |     --     |  --   | Cover the basics of MVT architecture                  |
+| **Total content**                        |     --     |  --   |                                                       |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
 
 ## Internal resources
 

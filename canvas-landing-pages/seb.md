@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](../assets/tktk-hero.png)
+# ![Intro to Django](../assets/tktk-hero.png)
