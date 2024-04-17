@@ -1,4 +1,4 @@
-# ![Intro-to-Django](./assets/tktk-hero.png)
+# ![Intro-to-Django](./assets/hero.png)
 
 ## About
 

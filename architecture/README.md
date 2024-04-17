@@ -6,7 +6,7 @@
 
 Django adopts the Model-View-Template (MVT) architecture, a variant of the more widely known Model-View-Controller (MVC) architecture. While both architectures aim to separate concerns within an application, Django's MVT architecture has distinct roles for each component.
 
-![Infographic of Django's MVT architecture design pattern - tktk Hunter need a new version of this](<./assets/originals/ERD@2x(11).png>)
+![Infographic of Django's MVT architecture design pattern](./assets/mvt.png)
 
 - **Model:** Defines the data structure. These are Python classes that define the fields and behaviors of the data you’re storing. Django models can interact with a database seamlessly to retrieve, store, update, and delete data.
 
@@ -35,7 +35,7 @@ When developing with Django, we’ll just have to be careful to say **view** ins
 
 This diagram illustrates how different components interact within a Django project:
 
-![Infographic of Django's MVT architecture design pattern](<./assets/originals/ERD@2x(11).png>)
+![Infographic of Django's MVT architecture design pattern](./assets/mvt.png)
 
 ### Terminology in Django
 
