@@ -1,6 +1,6 @@
 # ![Intro to Django - Architecture](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, learners will be able to describe the Model-View-Template (MVT) architecture of Django and differentiate it from the traditional Model-View-Controller (MVC) architecture.
 
 ## Django's MVT architecture
 
