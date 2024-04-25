@@ -20,7 +20,7 @@ Django adopts the Model-View-Template (MVT) architecture, a variant of the more 
 | Code mapped to routes     | Controller | View       |
 | Rendering of dynamic HTML | View       | Template   |
 
-### Practical Implications
+### Practical implications
 
 When developing with Django, it's essential to adjust the terminology you use:
 
@@ -29,7 +29,7 @@ When developing with Django, it's essential to adjust the terminology you use:
 
 When developing with Django, be careful to say **view** instead of **controller** and **template** instead of **view**.
 
-## Components of a Django Project
+## Components of a Django project
 
 This diagram illustrates how different components interact within a Django project:
 
@@ -44,7 +44,7 @@ Django uses unique terminology for its components, which can initially be confus
 
 A Django ***project*** is a complete website with multiple pages, while a Django ***app*** is a web application that does something specific and can be integrated into any project.
 
-### Understanding Django's Project and App Structure
+### Understanding Django's project and app structure
 
 | **Component** | **Description**                                                                                                                    |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,16 +55,16 @@ This modular approach makes Django apps highly reusable They can migrate from on
 
 > 📚 A Django ***project*** can have many ***apps***, and a Django ***app*** can belong to multiple ***projects***.
 
-## Django's Routing Methodology
+## Django's routing methodology
 
 Routing is a core aspect of web development, as it determines how a web application responds to a client's request to a particular endpoint, which is a URL path in the web application.
 
-### Comparison with Other Frameworks
+### Comparison with other frameworks
 
 Frameworks like Express and Ruby on Rails define routes using both HTTP methods (GET, POST, etc.) and URL paths, allowing for different responses based on the method used.
 
 Conversely, Django and ASP.NET Core primarily use the URL path to define routes, omitting the HTTP method. This method simplifies routing but may require additional setup to effectively handle multiple HTTP methods for the same URL path.
 
-### Django's Routing Files
+### Django's routing files
 
 Django's routing is managed through a module named **`urls.py`**, which is found in each app and sometimes at the project level. This module defines the URL patterns (routes) that direct web requests to the correct view functions based on the URL, organizing the routing process across the application.
