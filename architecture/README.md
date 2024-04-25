@@ -51,7 +51,7 @@ A Django ***project*** is a complete website with multiple pages, while a Django
 | **Project**   | A full Django project is a complete website containing configurations and applications that make the website function. |
 | **Apps**      | Each app is a self-contained package that encapsulates specific functionality or features of a website.                            |
 
-This modular approach makes Django apps highly reusable They can migrate from one project to another or be maintained across multiple projects.
+This modular approach makes Django apps highly reusable. They can migrate from one project to another or be maintained across multiple projects.
 
 > 📚 A Django ***project*** can have many ***apps***, and a Django ***app*** can belong to multiple ***projects***.
 
