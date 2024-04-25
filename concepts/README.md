@@ -8,7 +8,7 @@ Django is by far the most popular Python-based web framework, and its popularity
 
 Django was publicly released in 2005 and was named by one of its creators, [Adrian Holovaty](https://en.wikipedia.org/wiki/Adrian_Holovaty), after his favorite guitarist, [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt).
 
-Django is specifically engineered to develop of highly secure web applications rapidly. It provides a rich set of tools and features that streamline the creation of complex, data-driven sites. Django follows the "batteries-included" philosophy, meaning it includes built-in solutions for many of the common challenges in web development, such as user authentication, site maps, and content administration.
+Django is specifically engineered to develop highly secure web applications rapidly. It provides a rich set of tools and features that streamline the creation of complex, data-driven sites. Django follows the "batteries-included" philosophy, meaning it includes built-in solutions for many of the common challenges in web development, such as user authentication, site maps, and content administration.
 
 These components are designed to work together seamlessly, which allows developers to focus on the unique features of their web applications without worrying about the underlying infrastructure.
 
