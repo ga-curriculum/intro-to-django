@@ -8,11 +8,11 @@ Throughout this module, you will learn about Django's unique architecture, which
 
 ## Content
 
-| Lesson                                    | Video Time | Video | Skills                                                                               |
-| ----------------------------------------- | :--------: | :---: | ------------------------------------------------------------------------------------ |
-| [Concepts](../concepts/README.md)         |     --     |  --   | Introduction to Django's capabilities and advantages in web development              |
-| [Architecture](../architecture/README.md) |     --     |  --   | Understand Django's Model-View-Template (MVT) architecture and its comparison to MVC |
-| **Total content**                         |     --     |  --   |                                                                                      |
+| Lesson | Video Time | Video | Skills |
+| ------ | :--------: | :---: | ------ |
+| [Concepts](../concepts/README.md)         |  3 min | [link](https://generalassembly.wistia.com/medias/wnvx6ej2ve) | Introduction to Django's capabilities and advantages in web development.              |
+| [Architecture](../architecture/README.md) |  7 min | [link](https://generalassembly.wistia.com/medias/chta00vqb1) | Understand Django's Model-View-Template (MVT) architecture and its comparison to MVC. |
+| **Total content**                         | 10 min | --                                                           |                                                                                       |
 
 ## References
 
