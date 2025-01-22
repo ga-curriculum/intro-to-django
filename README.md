@@ -1,14 +1,13 @@
-# ![Intro-to-Django](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to Django</span>
+</h1>
 
 ## About
 
 In this module, you will explore Django, a high-level Python web framework that promotes rapid development and clean, pragmatic design. Designed to make it easier to build complex, data-driven websites, Django handles much of the hassle of web development so you can focus on writing your app without needing to reinvent the wheel.
 
 Throughout this module, you will learn about Django's unique architecture, which uses a Model-View-Template (MVT) design.
-
-## Prerequisites
-
-- **Basic Knowledge of Python**: Students should be familiar with Python syntax, basic programming concepts like variables, loops, and functions, as these are essential for understanding and working with Django.
 
 ## Content
 
@@ -22,7 +21,18 @@ Throughout this module, you will learn about Django's unique architecture, which
 
 📖 [Reference Materials](./references/README.md)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+- **Basic Knowledge of Python**: Students should be familiar with Python syntax, basic programming concepts like variables, loops, and functions, as these are essential for understanding and working with Django.
+
+### Course landing pages
+
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-django/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-django/canvas-landing-pages/fallback.html)
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
@@ -32,4 +42,4 @@ Throughout this module, you will learn about Django's unique architecture, which
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
